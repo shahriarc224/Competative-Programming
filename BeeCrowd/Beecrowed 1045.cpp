@@ -12,6 +12,11 @@ code:
 */
 
 
+
+
+//nicer ta vul code 
+
+
 //https://www.beecrowd.com.br/judge/en/problems/view/1045
 
 #include<bits/stdc++.h>
