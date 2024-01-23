@@ -1,4 +1,5 @@
-//https://www.beecrowd.com.br/judge/en/runs/code/37321056
+//https://www.beecrowd.com.br/judge/en/problems/view/1040
+
 
 #include<bits/stdc++.h>
 using namespace std;
