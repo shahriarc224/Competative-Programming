@@ -1,5 +1,11 @@
 //https://www.beecrowd.com.br/judge/en/problems/view/1040
 
+/*ai problem tar solve pari nai 
+
+source link:    https://www.codeshikhi.com/2020/12/uri-1040-average-3-solution-in-c-cpp-cpluscplus-python.html
+
+*/
+
 
 #include<bits/stdc++.h>
 using namespace std;
