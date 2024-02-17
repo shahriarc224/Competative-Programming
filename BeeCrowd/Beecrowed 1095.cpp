@@ -1,0 +1,35 @@
+ /*
+
+ ********************************************( اللهم صّلِ وسَلّمْ عَلۓِ نَبِيْنَا مُحَمد ﷺ )*********************************************
+                                                Bismillahir Rahmanir Raheem
+                                      "In the name of God, Most Gracious, Most Merciful
+
+
+                Allahumma anta rabbi la ilaha illa anta, ‘alaika tawakkaltu wa anta rabbul ‘arshil kareem maashaa
+                llahu kaana wa maLam yasha’ lam yakun-wa laa hawla wa laa quwwata illaa billaahil ‘aliyyil ‘azeem
+
+
+*/
+
+// https://judge.beecrowd.com/en/problems/view/1095
+
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+
+int i=1;
+
+for(int j=60;j>=0;j--){
+
+    cout<<"I="<<i<<" "<<"J="<<j<<endl;
+
+    i+=3;
+    j-=4;
+
+}
+return 0;
+}
+
