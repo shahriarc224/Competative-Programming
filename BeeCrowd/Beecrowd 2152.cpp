@@ -25,3 +25,27 @@ int main()
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+
+// my code
+ 
+// https://judge.beecrowd.com/en/problems/view/2152
+
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+int t;
+cin>>t;
+while(t--){
+
+    int a,b,c;
+    cin>>a>>b>>c;
+if(c==0 || b==0){
+    cout<<a<<":"<<b<<" - A porta fechou!"<<endl;
+        } else{
+    cout<<a<<":"<<b<<" - A porta abriu!"<<endl;
+        }
+}
+}
+
+
+
