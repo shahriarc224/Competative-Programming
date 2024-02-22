@@ -25,7 +25,7 @@ cin>>a;
 if(a==0){
     cout<<"E"<<endl;
 
-}else if(a=>1 && a<=35){
+}else if(a>=1 && a<=35){
 
 cout<<"D"<<endl;
 
