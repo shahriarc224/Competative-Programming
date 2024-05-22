@@ -7,8 +7,8 @@
   			  Allahumma anta rabbi la ilaha illa anta, ‘alaika tawakkaltu wa anta rabbul ‘arshil kareem maashaa
   			  llahu kaana wa maLam yasha’ lam yakun-wa laa hawla wa laa quwwata illaa billaahil ‘aliyyil ‘azeem
 
-
 */
+
 // 
 
 #include<bits/stdc++.h>
