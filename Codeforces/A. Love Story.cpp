@@ -16,11 +16,6 @@ int main(){
       if(b[i]!=a[i])
       cnt++;
     }
-
     cout<<cnt<<endl;
-
-  }
-
-
-
+ }
 }
