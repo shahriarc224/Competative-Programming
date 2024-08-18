@@ -1,5 +1,3 @@
-
-
 //  https://www.hackerrank.com/contests/practice-1713096494/challenges/count-odd-even-in-between
 
 #include<bits/stdc++.h>
