@@ -10,7 +10,6 @@ int main() {
     while(t--){
   string a;
   cin>>a;
- 
  int j=a[0]-48;
  int k=a[2]-48;
  int l=j+k;
