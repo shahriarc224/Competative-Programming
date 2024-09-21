@@ -15,7 +15,5 @@ int main(){
 
 if (a.find(b) != string::npos) cout<<"YES"<<endl;
    else cout<<"NO"<<endl;
-
-}
-
+  }
 }
