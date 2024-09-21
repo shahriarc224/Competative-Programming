@@ -3,13 +3,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-
   int t;
   cin>>t;
       string a="codeforces";
-
   while(t--){
-
    char b;
    cin>>b;
 
