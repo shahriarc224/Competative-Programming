@@ -1,5 +1,6 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A
 
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
