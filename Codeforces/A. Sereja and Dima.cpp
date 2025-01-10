@@ -48,5 +48,3 @@ cout<<s<<" "<<d<<endl;
    return 0;
 
 }
-
-
