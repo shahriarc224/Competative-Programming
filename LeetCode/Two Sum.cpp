@@ -6,7 +6,8 @@ public:
               if(nums[i]+nums[j]==target ) return {i,j};
            }
         }
-        // if solution is not found then return an empty vector
+
+        
         return {};
     }
 }; 
