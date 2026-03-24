@@ -9,9 +9,8 @@ void solve (){
 cout<<a+b<<endl;
 }
 
-int main(){
+int main(){   
     
     solve();
-
     return 0;
 }
