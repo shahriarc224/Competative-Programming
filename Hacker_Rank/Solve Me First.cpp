@@ -12,5 +12,5 @@ cout<<a+b<<endl;
 int main(){   
     
     solve();
-    return 0;
+   
 }
