@@ -11,11 +11,10 @@ typedef double dl;
 #define fraction() cout.unsetf(ios::floatfield); cout.precision(10); cout.setf(ios::fixed,ios::floatfield);
 
 void solve(){
-    
 	ll n; cin>>n;
 	ll arr[n];
     
-	for(int i=0;i<n;i++) cin>>arr[i];
+	for(int i=0;i<n;i++)  cin>>arr[i];
     
 	long mx;
 	mx=arr[0];
@@ -25,6 +24,7 @@ void solve(){
         	mx=arr[i];
     	}
 	}
+	
 	long cnt =0;
 
 	for(int i=0;i<n;i++){
