@@ -9,12 +9,13 @@ while(t--){
 int n,x;cin>>n>>x;
 vector<int>v(n);
 
-for(int i=0;i<v.size();i++){
-cin>>v[i];
-}
+   for(int i=0;i<v.size();i++){
+    cin>>v[i];
+    }
 
-sort(v.begin(),v.end());
-int sz=unique(v.begin(),v.end())-v.begin();
+   sort(v.begin(),v.end());
+	
+  int sz=unique(v.begin(),v.end())-v.begin();
 
 if(sz==x)cout<<"Good"<<endl;
 else if(sz<x)cout<<"Bad"<<endl;
