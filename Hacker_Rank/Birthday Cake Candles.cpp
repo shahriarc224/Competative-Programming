@@ -1,5 +1,4 @@
 // https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -37,7 +36,7 @@ void solve(){
 int main(){
   optimize ();
 	solve();
-    return 0;
+  
 }
 
 
