@@ -14,7 +14,6 @@ public:
             a += max(0, v[i] - y);
         }
 
-
         a += x;
         
         if(a < b)
