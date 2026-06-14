@@ -16,6 +16,7 @@ vector<int>v(n);
    sort(v.begin(),v.end());
 	
   int sz=unique(v.begin(),v.end())-v.begin();
+	
 
 if(sz==x)cout<<"Good"<<endl;
 else if(sz<x)cout<<"Bad"<<endl;
