@@ -17,7 +17,6 @@ vector<int>v(n);
 	
   int sz=unique(v.begin(),v.end())-v.begin();
 	
-
 if(sz==x)cout<<"Good"<<endl;
 else if(sz<x)cout<<"Bad"<<endl;
 else cout<<"Average"<<endl;
