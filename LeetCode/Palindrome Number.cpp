@@ -11,6 +11,18 @@ public:
 
 
 
+
+
+
+
+
+
+
+
+
+        
+
+
         
         string dup=a;
           reverse(dup.begin(),dup.end());
