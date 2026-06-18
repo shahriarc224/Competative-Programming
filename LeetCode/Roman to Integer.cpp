@@ -12,6 +12,7 @@ public:
           if(s[i]=='C') result+=100; 
           if(s[i]=='D') result+=500; 
           if(s[i]=='M') result+=1000; 
+            
         }
 
         return result;
