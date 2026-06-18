@@ -2,7 +2,6 @@ class Solution {
 public:
     int romanToInt(string s) {
         int n =s.size();
-        
        int  result =0;
         
         for (int i=0 ; i<n ; i++){
