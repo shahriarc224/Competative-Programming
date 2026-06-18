@@ -14,10 +14,6 @@ public:
           if(s[i]=='M') result+=1000; 
             
         }
-
-
-
-
         
 
         
