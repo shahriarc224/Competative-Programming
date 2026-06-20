@@ -1,9 +1,6 @@
 // https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 class Solution {
-public
-
-
-
+public:
 
 
     bool canMakeArithmeticProgression(vector<int>& arr) {
