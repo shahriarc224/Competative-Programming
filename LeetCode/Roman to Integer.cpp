@@ -5,7 +5,6 @@ public:
        int  result =0;
         
         for (int i=0 ; i<n ; i++){
-            
           if(s[i]=='I') result+=1; 
           if(s[i]=='V') result+=5; 
           if(s[i]=='X') result+=10; 
