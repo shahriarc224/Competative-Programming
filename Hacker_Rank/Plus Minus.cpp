@@ -22,16 +22,6 @@ void solve(){
          neg=neg/n;
           zero=zero/n;
 
-
-
-
-
-
-
-    
-
-    
-    
     cout<<fixed<<setprecision(6)<<pos<<endl;
      cout<<fixed<<setprecision(6)<<neg<<endl;
       cout<<fixed<<setprecision(6)<<zero<<endl;
