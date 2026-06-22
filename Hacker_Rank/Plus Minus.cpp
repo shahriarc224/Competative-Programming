@@ -27,6 +27,9 @@ void solve(){
 
 
 
+
+    
+
     
     
     cout<<fixed<<setprecision(6)<<pos<<endl;
