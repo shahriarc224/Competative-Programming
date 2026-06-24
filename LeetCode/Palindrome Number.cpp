@@ -9,6 +9,9 @@ public:
 
         
 
+
+
+
         
            if (dup==a) return true;
             else return false;
