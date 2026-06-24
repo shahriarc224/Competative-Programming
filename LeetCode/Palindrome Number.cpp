@@ -6,6 +6,9 @@ public:
           reverse(dup.begin(),dup.end());
 
 
+
+        
+
         
            if (dup==a) return true;
             else return false;
