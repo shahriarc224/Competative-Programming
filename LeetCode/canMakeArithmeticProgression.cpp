@@ -9,6 +9,8 @@ public:
             if(arr[i]-arr[i-1]!= d) return false;
             
        }
+
+
         
        return true;
     }
