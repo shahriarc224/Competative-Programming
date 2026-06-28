@@ -10,9 +10,6 @@
 
 */
 
-
-
-
 // https://codeforces.com/problemset/problem/263/A
 
 #include<bits/stdc++.h>
