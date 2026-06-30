@@ -24,6 +24,10 @@ typedef double dl;
 int main(){
 
 
+
+
+
+
 	
 	
    optimize ();
