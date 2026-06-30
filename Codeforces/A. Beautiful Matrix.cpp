@@ -22,6 +22,9 @@ typedef double dl;
 #define fraction() cout.unsetf(ios::floatfield); cout.precision(10); cout.setf(ios::fixed,ios::floatfield);
 
 int main(){
+
+
+	
 	
    optimize ();
     int x=0;
