@@ -6,17 +6,7 @@ public:
            for(int j=1;j<nums.size();j++){ 
               if(nums[i]+nums[j]==target )
                   return {i,j};
-
-
-
-
-
-
-               
-
-               
-               
-               
+       
            }
         }
        return {};
