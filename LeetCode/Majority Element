@@ -9,9 +9,6 @@ public:
               
             }
 
-
-
-
             if(cnt>(n/2)) return nums[i];
             
         }
