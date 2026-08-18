@@ -16,5 +16,4 @@ int t; cin>>t;
     }
     cout<<cnt<<endl;
     return 0;
-    
 }
